@@ -9,7 +9,7 @@ Supports basic get,post,put,put,delete or custom methods.
 ![ScreenShot](https://github.com/tanoDxyz/LightMan/blob/master/linux.png)
 
 
-###Usage
+### Usage
 ---------------
 Clone the project and build it for your target platform. linux , windows, mac os.
 
